@@ -1,6 +1,6 @@
 <?php
 //Definimos la Clase ia.
-Class ia{
+class ia{
 public $columna;
 public $fila;
 
